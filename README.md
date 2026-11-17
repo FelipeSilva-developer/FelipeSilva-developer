@@ -49,7 +49,7 @@ Profissional de infraestrutura com foco em **arquitetura híbrida e multicloud**
 ## 🧰 Stack
 
 <div align="center">
-  <img height="40" alt="AWS" title="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img height="40" alt="AWS" title="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
   <img height="40" alt="Azure" title="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <img height="40" alt="GCP" title="GCP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
   <img height="40" alt="Oracle Cloud" title="Oracle Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
@@ -80,10 +80,8 @@ Profissional de infraestrutura com foco em **arquitetura híbrida e multicloud**
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/FelipeSilva-developer">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FelipeSilva-developer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Felipe" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSilva-developer&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
-  </a>
+  <img height="170" src="https://streak-stats.demolab.com/?user=FelipeSilva-developer&theme=dracula&hide_border=true" alt="Streak de contribuições" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FelipeSilva-developer&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do GitHub" />
 </div>
 
 ## 📫 Vamos conversar?
@@ -94,4 +92,4 @@ Profissional de infraestrutura com foco em **arquitetura híbrida e multicloud**
   <a href="https://www.credly.com/users/felipe-santana.de7a45c5/badges"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" /></a>
 </div>
 
-![Contribution Snake](https://github.com/FelipeSilva-developer/FelipeSilva/blob/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/FelipeSilva-developer/FelipeSilva/output/github-contribution-grid-snake.svg)
