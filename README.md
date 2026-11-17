@@ -93,4 +93,4 @@ Profissional de infraestrutura com foco em **arquitetura híbrida e multicloud**
   <a href="https://www.credly.com/users/felipe-santana.de7a45c5/badges"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" /></a>
 </div>
 
-![Contribution Snake](https://raw.githubusercontent.com/FelipeSilva-developer/FelipeSilva-developer/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/FelipeSilva-developer/FelipeSilva-developer/output/github-contribution-grid-snake.svg?v=2.3)
