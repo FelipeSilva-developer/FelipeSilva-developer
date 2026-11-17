@@ -1,83 +1,71 @@
-<h1 align="center">Felipe Santana da Silva 👋</h1>
-<h3 align="center">☁️ Analista de Infraestrutura | SysAdmin | DevOps | Multicloud ☁️</h3>
+<h1 align="center">Felipe Santana da Silva</h1>
+<p align="center"><b>Analista de Infraestrutura | SysAdmin | DevOps | Multicloud</b><br/>São Paulo, Brasil</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <a href="https://www.linkedin.com/in/prolipe001"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:Prolipe001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.credly.com/users/felipe-santana.de7a45c5/badges"><img src="https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="Credly" /></a>
 </p>
-
-<p align="center"><i>"Infraestrutura boa é aquela que ninguém percebe... até o dia em que precisa funcionar." 😄</i></p>
 
 ---
 
-## 🚀 Sobre mim
+## Sobre
 
-Profissional de infraestrutura com foco em **arquitetura híbrida e multicloud**, atuando na sustentação e modernização de ambientes críticos, principalmente em nuvem pública.
+Profissional de infraestrutura com foco em **arquitetura híbrida e multicloud**, atuando na sustentação e modernização de ambientes críticos em nuvem pública. Trabalho com soluções escaláveis, seguras e altamente disponíveis, priorizando automação, observabilidade e otimização de custos (FinOps).
 
-- 🏗️ Arquitetura e administração de soluções **escaláveis, seguras e altamente disponíveis**
-- 🔄 Migrações estratégicas **cloud-to-cloud** e **on-premises → nuvem**
-- 🛡️ Segurança, backup, disaster recovery e continuidade de negócio
-- 🤖 Automação com **Terraform** e **Ansible** para padronizar ambientes e reduzir falhas humanas
-- 💰 Otimização de custos com **FinOps**
-- 📊 Observabilidade com Zabbix, Prometheus, Grafana e New Relic
+**Áreas de atuação**
 
-## 💼 Trajetória
+- Arquitetura e administração de ambientes multicloud (AWS, Azure, GCP e OCI) e on-premises
+- Governança multicloud com políticas herdadas e auditoria centralizada
+- Migrações cloud-to-cloud e on-premises para nuvem
+- Segurança da informação, backup, disaster recovery e continuidade de negócio
+- Infraestrutura como código e automação com Terraform, Ansible, Python e Bash
+- Monitoramento e observabilidade: Zabbix, Prometheus, Grafana e New Relic
+- Resposta a incidentes e alta disponibilidade em ambientes com grande volume de servidores
+
+## Tecnologias
+
+| Categoria | Ferramentas |
+|---|---|
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![OCI](https://img.shields.io/badge/OCI-F80000?style=flat-square&logo=oracle&logoColor=white) |
+| **IaC e automação** | ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+| **Monitoramento** | ![Zabbix](https://img.shields.io/badge/Zabbix-CC2936?style=flat-square&logo=zabbix&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![New Relic](https://img.shields.io/badge/New%20Relic-008C99?style=flat-square&logo=newrelic&logoColor=white) |
+| **Segurança e workplace** | ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft365&logoColor=white) ![Sophos](https://img.shields.io/badge/Sophos-005BC8?style=flat-square&logo=sophos&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white) |
+| **Sistemas e bancos de dados** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+
+## Experiência
 
 | Período | Cargo | Empresa |
 |---|---|---|
-| nov/2025 – atual | Analista de Infraestrutura Pleno (Multicloud) | **OM30** |
-| fev/2025 – nov/2025 | Analista de Infraestrutura Física Pleno | **OM30** |
-| jan/2023 – fev/2025 | HelpDesk Support I | **Cencosud S.A.** |
-| abr/2022 – jan/2023 | Estagiário de TI | **GIGA Atacado** |
-| set/2021 – abr/2022 | Estagiário de TI | **FUNAP** |
+| nov/2025 – atual | Analista de Infraestrutura Pleno (Multicloud) | OM30 |
+| fev/2025 – nov/2025 | Analista de Infraestrutura Física Pleno | OM30 |
+| jan/2023 – fev/2025 | HelpDesk Support I | Cencosud S.A. |
+| abr/2022 – jan/2023 | Estagiário de TI | GIGA Atacado |
+| set/2021 – abr/2022 | Estagiário de TI | FUNAP |
 
-> 🌱 Comecei no suporte e cresci até a arquitetura multicloud: cada degrau me ensinou a olhar a infraestrutura do usuário final até o datacenter.
+## Formação e certificações
 
-## 🎓 Formação e certificações
+**Formação**
+- Pós-graduação em DevOps e Arquitetura Cloud, FIAP (2026)
+- Bacharelado em Ciência da Computação, Universidade Paulista (2024)
 
-- 🎓 **Pós-graduação em DevOps e Arquitetura Cloud** — FIAP (2026)
-- 🎓 **Bacharelado em Ciência da Computação** — Universidade Paulista (2024)
-- 🏅 **Oracle Cloud Infrastructure 2025 Foundations Associate**
-- 🏅 Conceitos e melhores práticas com bancos de dados PostgreSQL
-- 🏅 MySQL — Trabalhando com tabelas
-- 🏅 Fundamentos de TI: Hardware e Software
-- 🏅 Lei Geral de Proteção de Dados (LGPD)
-- 🌎 Inglês — Professional Working
+**Certificações**
+- Oracle Cloud Infrastructure 2025 Foundations Associate
+- Lei Geral de Proteção de Dados (LGPD)
+- Conceitos e melhores práticas com bancos de dados PostgreSQL
+- MySQL: Trabalhando com tabelas
+- Fundamentos de TI: Hardware e Software
 
-## 🧰 Stack
+**Idiomas:** Português (nativo) · Inglês (Professional Working)
 
-<div align="center">
-  <img height="40" alt="AWS" title="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-  <img height="40" alt="Azure" title="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-  <img height="40" alt="GCP" title="GCP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-  <img height="40" alt="Oracle Cloud" title="Oracle Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-  <img height="40" alt="Terraform" title="Terraform" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-  <img height="40" alt="Ansible" title="Ansible" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
-  <img height="40" alt="Prometheus" title="Prometheus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
-  <img height="40" alt="Grafana" title="Grafana" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
-  <img height="40" alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="40" alt="Bash" title="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  <img height="40" alt="Linux" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img height="40" alt="PostgreSQL" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img height="40" alt="MySQL" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Zabbix-CC2936?style=for-the-badge&logo=zabbix&logoColor=white" />
-  <img src="https://img.shields.io/badge/New%20Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sophos-005BC8?style=for-the-badge&logo=sophos&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-</div>
+## Foco atual
 
-## 🎯 Foco atual
+- Aprofundamento em DevOps e Arquitetura Cloud
+- Governança e padronização de ambientes multicloud
+- Infraestrutura como código e automação em escala
+- FinOps e otimização de custos em nuvem
 
-- 🔭 Aprofundando em **DevOps e Arquitetura Cloud** na FIAP
-- 🏛️ Governança multicloud com políticas herdadas e auditoria central
-- ⚙️ Infra como código e automação em escala
-- 🤝 Aberto a trocar ideias sobre cloud, FinOps e DevOps
-
-## 📊 Estatísticas do GitHub
+## GitHub
 
 <div align="center">
   <img height="170" src="https://streak-stats.demolab.com/?user=FelipeSilva-developer&theme=dracula&hide_border=true" alt="Streak de contribuições" />
@@ -85,12 +73,4 @@ Profissional de infraestrutura com foco em **arquitetura híbrida e multicloud**
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelipeSilva-developer&theme=dracula" alt="Repositórios por linguagem" />
 </div>
 
-## 📫 Vamos conversar?
-
-<div align="center">
-  <a href="mailto:Prolipe001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/prolipe001"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.credly.com/users/felipe-santana.de7a45c5/badges"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" /></a>
-</div>
-
-![Contribution Snake](https://raw.githubusercontent.com/FelipeSilva-developer/FelipeSilva-developer/output/github-contribution-grid-snake.svg?v=2.3)
+![Contribution Snake](https://raw.githubusercontent.com/FelipeSilva-developer/FelipeSilva-developer/output/github-contribution-grid-snake.svg?v=2.4)
