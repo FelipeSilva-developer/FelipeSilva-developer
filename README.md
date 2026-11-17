@@ -81,7 +81,8 @@ Profissional de infraestrutura com foco em **arquitetura híbrida e multicloud**
 
 <div align="center">
   <img height="170" src="https://streak-stats.demolab.com/?user=FelipeSilva-developer&theme=dracula&hide_border=true" alt="Streak de contribuições" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FelipeSilva-developer&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FelipeSilva-developer&theme=dracula" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelipeSilva-developer&theme=dracula" alt="Repositórios por linguagem" />
 </div>
 
 ## 📫 Vamos conversar?
@@ -92,4 +93,4 @@ Profissional de infraestrutura com foco em **arquitetura híbrida e multicloud**
   <a href="https://www.credly.com/users/felipe-santana.de7a45c5/badges"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" /></a>
 </div>
 
-![Contribution Snake](https://raw.githubusercontent.com/FelipeSilva-developer/FelipeSilva/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/FelipeSilva-developer/FelipeSilva-developer/output/github-contribution-grid-snake.svg)
